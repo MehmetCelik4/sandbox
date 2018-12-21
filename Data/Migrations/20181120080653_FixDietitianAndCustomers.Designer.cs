@@ -3,15 +3,17 @@ using System;
 using Diet.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace Diet.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20181120080653_FixDietitianAndCustomers")]
+    partial class FixDietitianAndCustomers
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -24,7 +26,7 @@ namespace Diet.Data.Migrations
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<int>("DietitianID");
+                    b.Property<int?>("DietitianID");
 
                     b.Property<DateTime>("EnrollmentDate");
 
@@ -229,9 +231,8 @@ namespace Diet.Data.Migrations
             modelBuilder.Entity("Diet.Models.Customer", b =>
                 {
                     b.HasOne("Diet.Models.Dietitian", "Dietitian")
-                        .WithMany("Customers")
-                        .HasForeignKey("DietitianID")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .WithMany("Customer")
+                        .HasForeignKey("DietitianID");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

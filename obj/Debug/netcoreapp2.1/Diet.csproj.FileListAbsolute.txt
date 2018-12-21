@@ -17,10 +17,6 @@
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Diet.TagHelpers.output.cache
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Diet.RazorCoreGenerate.cache
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
-/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
-/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
-/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
-/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
@@ -34,3 +30,13 @@
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Diet.dll
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Diet.pdb
 /home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Diet.csproj.CopyComplete
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Dietitians/Create.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Dietitians/Delete.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Dietitians/Details.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Dietitians/Edit.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Dietitians/Index.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Customers/Create.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Customers/Delete.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Customers/Details.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Customers/Edit.g.cshtml.cs
+/home/mehmet/project/dotnet/Diet/obj/Debug/netcoreapp2.1/Razor/Views/Customers/Index.g.cshtml.cs

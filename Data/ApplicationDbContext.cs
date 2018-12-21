@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Diet.Models;
 
 namespace Diet.Data
 {
@@ -12,5 +13,8 @@ namespace Diet.Data
             : base(options)
         {
         }
+        public DbSet<Diet.Models.Dietitian> Dietitian { get; set; }
+        public DbSet<Diet.Models.Customer> Customer { get; set; }
     }
+
 }

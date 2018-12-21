@@ -66,7 +66,7 @@ namespace Diet
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Dietitians}/{action=Index}/{id?}");
             });
         }
     }
