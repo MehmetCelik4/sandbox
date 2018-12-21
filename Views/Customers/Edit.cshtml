@@ -29,6 +29,14 @@
                 <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
             </div>
             <div class="form-group">
+                            <label asp-for="DietitianID" class="control-label"></label>
+                            <select asp-for="DietitianID" class="form-control" asp-items="ViewBag.DietitianID">
+                                <option value="">-- Select Dietitian --</option>
+                            </select>
+                            <span asp-validation-for="DietitianID" class="text-danger" />
+                        </div>
+
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-default" />
             </div>
         </form>

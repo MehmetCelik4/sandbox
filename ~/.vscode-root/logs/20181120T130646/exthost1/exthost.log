@@ -1,0 +1,18 @@
+[2018-11-20 13:06:48.671] [exthost] [info] extension host started
+[2018-11-20 13:06:48.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-11-20 13:06:48.692] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-11-20 13:06:48.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-11-20 13:06:48.697] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-11-20 13:06:48.714] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-11-20 13:06:48.714] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-11-20 13:06:48.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-11-20 13:06:48.825] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-11-20 13:06:48.831] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2018-11-20 13:06:48.831] [exthost] [info] ExtensionService#loadCommonJSModule /home/mehmet/.vscode/extensions/ms-vscode.atom-keybindings-3.0.4/extension
+[2018-11-20 13:06:49.159] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2018-11-20 13:06:49.159] [exthost] [info] ExtensionService#loadCommonJSModule /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/out/src/main
+[2018-11-20 13:06:50.789] [exthost] [info] eager extensions activated
+[2018-11-20 13:08:08.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-11-20 13:08:08.292] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2018-11-20 13:22:22.427] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.references-view {"startup":false,"activationEvent":"onCommand:references-view.find"}
+[2018-11-20 13:22:22.427] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.references-view/out/src/extension

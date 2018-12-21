@@ -1,0 +1,30 @@
+[2018-12-21 14:08:30.868] [exthost] [info] extension host started
+[2018-12-21 14:08:30.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-21 14:08:30.876] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-21 14:08:30.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-21 14:08:30.878] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-21 14:08:30.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-21 14:08:30.892] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-21 14:08:30.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-21 14:08:30.973] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-21 14:08:30.980] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2018-12-21 14:08:30.980] [exthost] [info] ExtensionService#loadCommonJSModule /home/mehmet/.vscode/extensions/ms-vscode.atom-keybindings-3.0.4/extension
+[2018-12-21 14:08:31.293] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2018-12-21 14:08:31.293] [exthost] [info] ExtensionService#loadCommonJSModule /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/out/src/main
+[2018-12-21 14:08:32.784] [exthost] [info] eager extensions activated
+[2018-12-21 14:08:35.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-21 14:08:35.778] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-21 14:08:35.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-21 14:08:35.790] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-21 14:08:35.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-21 14:08:35.853] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-21 14:08:48.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-21 14:08:48.216] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/grunt/dist/main
+[2018-12-21 14:08:48.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-21 14:08:48.219] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/gulp/dist/main
+[2018-12-21 14:08:48.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-21 14:08:48.221] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/jake/dist/main
+[2018-12-21 14:08:48.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2018-12-21 14:08:48.224] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2018-12-21 15:13:31.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-12-21 15:13:31.910] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

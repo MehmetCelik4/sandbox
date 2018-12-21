@@ -1,0 +1,16 @@
+[2018-11-20 14:19:12.477] [exthost] [info] extension host started
+[2018-11-20 14:19:12.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-11-20 14:19:12.531] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-11-20 14:19:12.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-11-20 14:19:12.543] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-11-20 14:19:12.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-11-20 14:19:12.573] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-11-20 14:19:12.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-11-20 14:19:12.734] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-11-20 14:19:12.743] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.atom-keybindings {"startup":true,"activationEvent":"*"}
+[2018-11-20 14:19:12.743] [exthost] [info] ExtensionService#loadCommonJSModule /home/mehmet/.vscode/extensions/ms-vscode.atom-keybindings-3.0.4/extension
+[2018-11-20 14:19:12.756] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"activationEvent":"onLanguage:csharp"}
+[2018-11-20 14:19:12.756] [exthost] [info] ExtensionService#loadCommonJSModule /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/out/src/main
+[2018-11-20 14:19:14.733] [exthost] [info] eager extensions activated
+[2018-11-20 14:20:00.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-11-20 14:20:00.414] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

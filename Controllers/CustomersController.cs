@@ -80,6 +80,7 @@ namespace Diet.Controllers
             {
                 return NotFound();
             }
+            ViewBag.DietitianID = new SelectList(_context.Dietitian, "ID", "FullName");
             return View(customer);
         }
 
@@ -99,6 +100,11 @@ namespace Diet.Controllers
             {
                 try
                 {
+                    await TryUpdateModelAsync<Customer>(
+                customer,
+                "",
+                s => s.FirstMidName, s => s.LastName, s => s.EnrollmentDate, s=> s.DietitianID);
+
                     _context.Update(customer);
                     await _context.SaveChangesAsync();
                 }

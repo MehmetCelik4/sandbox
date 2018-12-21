@@ -1,0 +1,51 @@
+Starting OmniSharp server at 2018-12-21 14:08:31
+    Target: /home/mehmet/project/dotnet/Diet
+
+OmniSharp server started.
+    Path: /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/run
+    PID: 4838
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on ubuntu 18.10 (x64)
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to dotnet
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 15.0 - "/home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/omnisharp/msbuild/15.0/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/omnisharp/msbuild/15.0/Bin/MSBuild.dll'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 15.0 - "/home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/omnisharp/msbuild/15.0/Bin"
+            MSBuildExtensionsPath = /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/omnisharp/msbuild
+            BypassFrameworkInstallChecks = true
+            CscToolPath = /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/omnisharp/msbuild/15.0/Bin/Roslyn
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /home/mehmet/.vscode/extensions/ms-vscode.csharp-1.17.1/.omnisharp/1.32.8/omnisharp/msbuild/15.0/Bin
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/home/mehmet/project/dotnet/Diet'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Could not find any Cake files
+[info]: OmniSharp.WorkspaceInitializer
+        Project system 'OmniSharp.DotNet.DotNetProjectSystem' is disabled in the configuration.
+[info]: OmniSharp.MSBuild.ProjectSystem
+        No solution files found in '/home/mehmet/project/dotnet/Diet'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/mehmet/project/dotnet/Diet/Diet.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/mehmet/project/dotnet/Diet'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Could not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpWorkspaceOptionsProvider
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/mehmet/project/dotnet/Diet' on host 4755.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/mehmet/project/dotnet/Diet/Diet.csproj
+[info]: OmniSharp.MSBuild.ProjectManager
+        Successfully loaded project file '/home/mehmet/project/dotnet/Diet/Diet.csproj'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Adding project '/home/mehmet/project/dotnet/Diet/Diet.csproj'
+[info]: OmniSharp.MSBuild.ProjectManager
+        Update project: Diet
